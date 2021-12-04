@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4945e843-5ff4-4ef1-8835-aa03d6d48c26": {
+      "ProjectGuid": "4945e843-5ff4-4ef1-8835-aa03d6d48c26",
+      "DisplayName": "ACT_Factory",
+      "ColorIndex": 0
+    },
+    "8e46c55c-a6d9-4ee6-962d-6cea61934f79": {
+      "ProjectGuid": "8e46c55c-a6d9-4ee6-962d-6cea61934f79",
+      "DisplayName": "ACT_Factory_TestConsole",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

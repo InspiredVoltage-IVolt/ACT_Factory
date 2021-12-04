@@ -1,0 +1,12 @@
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_Solution\ACT_Factory\obj\Debug\net6.0\ACT_Factory.csproj.AssemblyReference.cache
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_Solution\ACT_Factory\obj\Debug\net6.0\ACT_Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_Solution\ACT_Factory\obj\Debug\net6.0\ACT_Factory.AssemblyInfoInputs.cache
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_Solution\ACT_Factory\obj\Debug\net6.0\ACT_Factory.AssemblyInfo.cs
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_Solution\ACT_Factory\obj\Debug\net6.0\ACT_Factory.csproj.CoreCompileInputs.cache
+D:\IVolt_Releases\ACT_Factory\Windows\Debug\net6.0\ACT_Factory.deps.json
+D:\IVolt_Releases\ACT_Factory\Windows\Debug\net6.0\ACT_Factory.dll
+D:\IVolt_Releases\ACT_Factory\Windows\Debug\net6.0\ref\ACT_Factory.dll
+D:\IVolt_Releases\ACT_Factory\Windows\Debug\net6.0\ACT_Factory.pdb
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_Solution\ACT_Factory\obj\Debug\net6.0\ACT_Factory.dll
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_Solution\ACT_Factory\obj\Debug\net6.0\ref\ACT_Factory.dll
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_Solution\ACT_Factory\obj\Debug\net6.0\ACT_Factory.pdb

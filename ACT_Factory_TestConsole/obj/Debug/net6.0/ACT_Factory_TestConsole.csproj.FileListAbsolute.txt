@@ -1,0 +1,15 @@
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\bin\Debug\net6.0\ACT_Factory_TestConsole.exe
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\bin\Debug\net6.0\ACT_Factory_TestConsole.deps.json
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\bin\Debug\net6.0\ACT_Factory_TestConsole.runtimeconfig.json
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\bin\Debug\net6.0\ACT_Factory_TestConsole.dll
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\bin\Debug\net6.0\ref\ACT_Factory_TestConsole.dll
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\bin\Debug\net6.0\ACT_Factory_TestConsole.pdb
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ACT_Factory_TestConsole.csproj.AssemblyReference.cache
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ACT_Factory_TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ACT_Factory_TestConsole.AssemblyInfoInputs.cache
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ACT_Factory_TestConsole.AssemblyInfo.cs
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ACT_Factory_TestConsole.csproj.CoreCompileInputs.cache
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ACT_Factory_TestConsole.dll
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ref\ACT_Factory_TestConsole.dll
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ACT_Factory_TestConsole.pdb
+D:\IVolt_Development\ACT_Factory\ACT_Factory\ACT_Factory_TestConsole\obj\Debug\net6.0\ACT_Factory_TestConsole.genruntimeconfig.cache

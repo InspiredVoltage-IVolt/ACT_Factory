@@ -3,9 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACT_Factory", "ACT_Factory\ACT_Factory.csproj", "{4945E843-5FF4-4EF1-8835-AA03D6D48C26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACT_Factory", "ACT_Factory\ACT_Factory.csproj", "{4945E843-5FF4-4EF1-8835-AA03D6D48C26}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ApplicationResources", "..\ApplicationResources\ApplicationResources.shproj", "{3E53CD76-A2B2-46DF-9338-5ADEAAA83B1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACT_Factory_TestConsole", "..\ACT_Factory_TestConsole\ACT_Factory_TestConsole.csproj", "{8E46C55C-A6D9-4EE6-962D-6CEA61934F79}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ACT_Factory_SharedProject", "ACT_Factory_SharedProject\ACT_Factory_SharedProject.shproj", "{95CCBE01-0967-4F88-9880-7C0E2929658F}"
 EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\ApplicationResources\ApplicationResources.projitems*{3e53cd76-a2b2-46df-9338-5adeaaa83b1e}*SharedItemsImports = 13
+		ACT_Factory_SharedProject\ACT_Factory_SharedProject.projitems*{95ccbe01-0967-4f88-9880-7c0e2929658f}*SharedItemsImports = 13
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -15,6 +25,10 @@ Global
 		{4945E843-5FF4-4EF1-8835-AA03D6D48C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4945E843-5FF4-4EF1-8835-AA03D6D48C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4945E843-5FF4-4EF1-8835-AA03D6D48C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E46C55C-A6D9-4EE6-962D-6CEA61934F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E46C55C-A6D9-4EE6-962D-6CEA61934F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E46C55C-A6D9-4EE6-962D-6CEA61934F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E46C55C-A6D9-4EE6-962D-6CEA61934F79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

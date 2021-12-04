@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <AssemblyName>ACT_Factory</AssemblyName>
     <RootNamespace>ACT.Core.Factory</RootNamespace>
     <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
@@ -18,5 +18,12 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <FileAlignment>4096</FileAlignment>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IVolt_ACT_ExtensionLibrary" Version="2.0.5" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.CodeDom" Version="6.0.0" />
+    <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
+  </ItemGroup>
 
 </Project>

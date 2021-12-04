@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_Solution\\ACT_Factory\\ACT_Factory.csproj": {}
+    "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_TestConsole\\ACT_Factory_TestConsole.csproj": {}
   },
   "projects": {
-    "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_Solution\\ACT_Factory\\ACT_Factory.csproj": {
+    "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_TestConsole\\ACT_Factory_TestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_Solution\\ACT_Factory\\ACT_Factory.csproj",
-        "projectName": "ACT_Factory",
-        "projectPath": "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_Solution\\ACT_Factory\\ACT_Factory.csproj",
+        "projectUniqueName": "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_TestConsole\\ACT_Factory_TestConsole.csproj",
+        "projectName": "ACT_Factory_TestConsole",
+        "projectPath": "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_TestConsole\\ACT_Factory_TestConsole.csproj",
         "packagesPath": "C:\\Users\\MarkAlicz\\.nuget\\packages\\",
-        "outputPath": "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_Solution\\ACT_Factory\\obj\\",
+        "outputPath": "D:\\IVolt_Development\\ACT_Factory\\ACT_Factory\\ACT_Factory_TestConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -50,21 +50,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "IVolt_ACT_ExtensionLibrary": {
-              "target": "Package",
-              "version": "[2.0.5, )"
-            },
-            "Microsoft.CSharp": {
-              "target": "Package",
-              "version": "[4.7.0, )"
-            },
-            "System.CodeDom": {
-              "target": "Package",
-              "version": "[6.0.0, )"
-            },
-            "System.Collections.Concurrent": {
+            "System.Reflection": {
               "target": "Package",
               "version": "[4.3.0, )"
+            },
+            "System.Reflection.TypeExtensions": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [
