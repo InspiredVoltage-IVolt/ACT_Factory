@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACT_Factory_TestConsole", "
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ACT_Factory_SharedProject", "ACT_Factory_SharedProject\ACT_Factory_SharedProject.shproj", "{95CCBE01-0967-4F88-9880-7C0E2929658F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{A677B9AA-5792-4999-955A-BF1404B34EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Plugins", "Test_Plugins\Test_Plugins.csproj", "{B569D50E-9287-4996-8F01-6D421A2175DF}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		..\ApplicationResources\ApplicationResources.projitems*{3e53cd76-a2b2-46df-9338-5adeaaa83b1e}*SharedItemsImports = 13
@@ -29,9 +33,16 @@ Global
 		{8E46C55C-A6D9-4EE6-962D-6CEA61934F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E46C55C-A6D9-4EE6-962D-6CEA61934F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E46C55C-A6D9-4EE6-962D-6CEA61934F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B569D50E-9287-4996-8F01-6D421A2175DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B569D50E-9287-4996-8F01-6D421A2175DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B569D50E-9287-4996-8F01-6D421A2175DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B569D50E-9287-4996-8F01-6D421A2175DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B569D50E-9287-4996-8F01-6D421A2175DF} = {A677B9AA-5792-4999-955A-BF1404B34EA6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D89AEFA4-3F85-42FF-9BD4-C71F63507214}
